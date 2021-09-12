@@ -1,4 +1,5 @@
-# Hello IS601 Fall 2021 - Kashish Bhatt 
+# Hello IS601 Fall 2021
+## This is Kashish Bhatt 
 This is Rajesh
 ### Hi my name is Yash
 ### Hello World
