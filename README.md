@@ -6,4 +6,4 @@ This is Rajesh
 ## Hello World - Amey
 ## Hello World - Keith
 ## Hello World - Narasimha
-## THis is Sehrish
+## This is Sehrish
